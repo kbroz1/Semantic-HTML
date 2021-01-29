@@ -13,3 +13,19 @@ body {
   margin-right: auto;
   width: 30%;
 }
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+ }
+ input[type=text] {
+   border: 2px solid red;
+  border-radius: 4px;
+ }
+ 5:39
+ input[type=text] {
+   background-color: #3CBC8D;
+  color: white;
+ }
